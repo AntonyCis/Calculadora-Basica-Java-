@@ -11,10 +11,12 @@ Una aplicación de escritorio moderna construida con **JavaFX**, siguiendo el pa
 * **Botón Limpiar:** Restablece los campos y el resultado rápidamente.
 
 ## 🛠️ Tecnologías utilizadas
-* **Java 17+** (o la versión que estés usando).
-* **JavaFX 25** (para la interfaz gráfica).
+* **Java 24/25** (o la versión que estés usando).
+* **JavaFX 25 sdk** (para la interfaz gráfica).
 * **FXML:** Para la definición de la vista.
 * **CSS:** Estilos aplicados directamente en el FXML para personalización.
+* **Intellij:** Entorno utilizado para la programación.
+* **Scene Builder:** Utilizado para la creación del FXML.
 
 ## 📁 Estructura del Proyecto
 El proyecto está organizado bajo el paquete `calculadora`:
